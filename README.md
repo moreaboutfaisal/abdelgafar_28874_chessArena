@@ -57,6 +57,11 @@ https://huggingface.co/datasets/Lichess/standard-chess-games
 | Package `chess_pkg` | Groups the functions and procedures above |
 
 ## References
-(To be completed after reading the sources. See `docs/research/research_log.md`.)
+Lichess. (n.d.). *Standard chess games* [Data set]. Hugging Face. https://huggingface.co/datasets/Lichess/standard-chess-games
+
+Glickman, M. E., & Jones, A. C. (1999). Rating the chess rating system. *Chance*, *12*, 21–28.
+
+*Full source list with key findings: see `docs/research/research_log.md`.*
 
 | 1 | Lichess. (n.d.). *Standard chess games* [Data set]. Hugging Face. https://huggingface.co/datasets/Lichess/standard-chess-games | Dataset | https://huggingface.co/datasets/Lichess/standard-chess-games | Open game records with player ratings, results and dates; licence CC0 (public domain); about 7.14 billion games | Raw game data only: no tournament rules, pairing, or rule enforcement; usernames are public handles, so they need anonymising |
+
