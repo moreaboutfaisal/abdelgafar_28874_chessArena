@@ -1,11 +1,10 @@
-# abdelgafar_28874_chessArena
 # ChessArena Rwanda: Tournament Pairing, Elo Rating and Fair-Play Monitor
 
-**Student:** Abdelgafar Faisal Abdelgafar
-**Student ID:** 28874
-**Course:** INSY 8311 – Database Development with PL/SQL (Final Exam, Capstone Project)
-**Instructor:** Eric Maniraguha
-**Academic year:** 2026–2027 (Semester I)
+- **Student:** Abdelgafar Faisal Abdelgafar
+- **Student ID:** 28874
+- **Course:** INSY 8311 – Database Development with PL/SQL (Final Exam, Capstone Project)
+- **Instructor:** Eric Maniraguha
+- **Academic year:** 2026–2027 (Semester I)
 
 ## Problem Statement
 Organizers of small chess tournaments in Rwanda (clubs, schools, universities) often pair players and update ratings by hand, in notebooks or spreadsheets. This leads to repeated pairings, wrong results, inconsistent ratings and disputes between players. There is no central record that enforces the tournament rules.
