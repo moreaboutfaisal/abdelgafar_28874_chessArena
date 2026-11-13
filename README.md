@@ -63,6 +63,18 @@ Glickman, M. E., & Jones, A. C. (1999). Rating the chess rating system. *Chance*
 
 *Full source list with key findings: see `docs/research/research_log.md`.*
 
-| 1 | Lichess. (n.d.). *Standard chess games* [Data set]. Hugging Face. https://huggingface.co/datasets/Lichess/standard-chess-games | Dataset | https://huggingface.co/datasets/Lichess/standard-chess-games | Open game records with player ratings, results and dates; licence CC0 (public domain); about 7.14 billion games | Raw game data only: no tournament rules, pairing, or rule enforcement; usernames are public handles, so they need anonymising |
+## References
 
-| 2 | Glickman, M. E., & Jones, A. C. (1999). Rating the chess rating system. *Chance*, *12*, 21–28. | Research paper | https://www.glicko.net/research/chance.pdf | Elo predicts game results from the rating difference and updates ratings with a factor K, but tests on 225,621 games show it overestimates the higher-rated player | The paper analyses the rating system statistically; it does not implement it in a database that enforces tournament rules and logs changes |
+Führlich, P., Cseh, Á., & Lenzner, P. (2021). *Improving ranking quality and fairness in Swiss-system chess tournaments* (arXiv:2112.10522). arXiv. https://arxiv.org/pdf/2112.10522v1
+
+Glickman, M. E., & Jones, A. C. (1999). Rating the chess rating system. *Chance, 12*, 21–28. https://www.glicko.net/research/chance.pdf
+
+Herzog, H. (n.d.). *Swiss-Manager* [Computer software]. German Chess Federation. https://www.schachbund.de/bundles/contaolinkscollection/go.php?id=2227
+
+Lichess. (n.d.). *Standard chess games* [Data set]. Hugging Face. https://huggingface.co/datasets/Lichess/standard-chess-games
+
+Oracle. (n.d.). *Trigger restrictions*. In *Oracle Database PL/SQL language reference* (19c). https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/trigger-restrictions.html
+
+Rwanda Chess Confederation. (2020). *Appendix C – Key performance indicators: National Chess Federation Rwanda, period 2019* [Report]. FIDE. https://pdc.fide.com/wp-content/uploads/2020/02/Rwanda_final.pdf
+
+Full source list with key findings and gaps: see [`docs/research/research_log.md`](docs/research/research_log.md).
