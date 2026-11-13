@@ -58,16 +58,13 @@ https://huggingface.co/datasets/Lichess/standard-chess-games
 
 ## References
 
-Führlich, P., Cseh, Á., & Lenzner, P. (2021). *Improving ranking quality and fairness in Swiss-system chess tournaments* (arXiv:2112.10522). arXiv. https://arxiv.org/pdf/2112.10522v1
+## References
 
-Glickman, M. E., & Jones, A. C. (1999). Rating the chess rating system. *Chance, 12*, 21–28. https://www.glicko.net/research/chance.pdf
-
-Herzog, H. (n.d.). *Swiss-Manager* [Computer software]. German Chess Federation. https://www.schachbund.de/bundles/contaolinkscollection/go.php?id=2227
-
-Lichess. (n.d.). *Standard chess games* [Data set]. Hugging Face. https://huggingface.co/datasets/Lichess/standard-chess-games
-
-Oracle. (n.d.). *Trigger restrictions*. In *Oracle Database PL/SQL language reference* (19c). https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/trigger-restrictions.html
-
-Rwanda Chess Confederation. (2020). *Appendix C – Key performance indicators: National Chess Federation Rwanda, period 2019* [Report]. FIDE. https://pdc.fide.com/wp-content/uploads/2020/02/Rwanda_final.pdf
+1. Lichess. (n.d.). *Standard chess games* [Data set]. Hugging Face. https://huggingface.co/datasets/Lichess/standard-chess-games
+2. Glickman, M. E., & Jones, A. C. (1999). Rating the chess rating system. *Chance, 12*, 21–28. https://www.glicko.net/research/chance.pdf
+3. Führlich, P., Cseh, Á., & Lenzner, P. (2021). *Improving ranking quality and fairness in Swiss-system chess tournaments* (arXiv:2112.10522). arXiv. https://arxiv.org/pdf/2112.10522v1
+4. Rwanda Chess Confederation. (2020). *Appendix C – Key performance indicators: National Chess Federation Rwanda, period 2019* [Report]. FIDE. https://pdc.fide.com/wp-content/uploads/2020/02/Rwanda_final.pdf
+5. Herzog, H. (n.d.). *Swiss-Manager* [Computer software]. German Chess Federation. https://www.schachbund.de/bundles/contaolinkscollection/go.php?id=2227
+6. Oracle. (n.d.). *Trigger restrictions*. In *Oracle Database PL/SQL language reference* (19c). https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/trigger-restrictions.html
 
 Full source list with key findings and gaps: see [`docs/research/research_log.md`](docs/research/research_log.md).
