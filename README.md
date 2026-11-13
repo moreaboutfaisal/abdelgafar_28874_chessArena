@@ -28,7 +28,7 @@ https://huggingface.co/datasets/Lichess/standard-chess-games
 
 - A sample of several thousand games will be used (not the full dataset).
 - Player usernames will be replaced by anonymous player IDs.
-- Licence to be confirmed on the dataset card before loading.
+- The dataset is licensed under CC0 1.0 (Public Domain). A sample of several thousand games will be used for this project.
 
 ## Innovation
 **Option:** User interface.
